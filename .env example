@@ -1,0 +1,5 @@
+PORT=3000
+
+MANAGEMENT_DATABASE_URL=postgresql://root:3152108124@localhost:5432/tenants_prestamos?schema=public
+
+SALTORROUNDS=10
